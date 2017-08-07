@@ -1,0 +1,20 @@
+Andy Chun Yat Lau
+M
+17
+A1234567
+Rm101,ABC Building,Tai Wo,Hong Kong
+21111111
+N/A
+N/A
+2012/8/18 Cough 
+No
+Vert Qing Yuan Lu
+M
+18
+C1261236
+Rm606,Green Building,Fo Tan,Hong Kong
+61116111
+N/A
+N/A
+1998/4/6 Asthma
+No
